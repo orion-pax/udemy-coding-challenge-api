@@ -1,0 +1,18 @@
+{
+  "name": "udemy-coding-challenge-api",
+  "version": "1.0.0",
+  "description": "This is an api for a quiz-taking system.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tafadzwa Chimberengwa",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.25",
+    "shortid": "^2.2.15"
+  }
+}
